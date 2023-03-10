@@ -5,3 +5,5 @@
 ### March 7 - Worked on a Mock-Up of a well known news site. The idea is to replicate the site using only CSS & HTML. Some algorithms as well.
 
 ### March 8 - Completed Mock-Up - reviewed JS and CSS materials.
+
+### March 9 - Reviewed JS Functions (Execution Environment and T.O.E) with Call Stacks.
