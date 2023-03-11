@@ -7,3 +7,5 @@
 ### March 8 - Completed Mock-Up - reviewed JS and CSS materials.
 
 ### March 9 - Reviewed JS Functions (Execution Environment and T.O.E) with Call Stacks.
+
+### March 10 - HOF (Higher Order Functions)
