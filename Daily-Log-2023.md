@@ -11,3 +11,5 @@
 ### March 10 - HOF (Higher Order Functions)
 
 ### March 11 - CSS advanced selectors
+
+### March 12 - Replicated an HTML page with CSS
