@@ -15,3 +15,5 @@
 ### March 12 - Replicated an HTML page with CSS
 
 ## March 13 - More HTML Mock-Up challenges (No CSS) - CSS advanced selectors for styling
+
+## March 14 (PI Day!!) - CSS Challenge an Mock-Up with HTML
