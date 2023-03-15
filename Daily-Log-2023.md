@@ -17,3 +17,5 @@
 ## March 13 - More HTML Mock-Up challenges (No CSS) - CSS advanced selectors for styling
 
 ## March 14 (PI Day!!) - CSS Challenge an Mock-Up with HTML
+
+## March 15 - Advanced CSS for nav bars w/ @Media
