@@ -21,3 +21,5 @@
 ## March 15 - Advanced CSS for nav bars w/ @Media
 
 ## March 16 - JS Closure, Backpack, assigning a variable to a function (C.O.V.E), (PLSRD)
+
+## March 17 - Harvard CS50 course - lecture #0 - Scratch
