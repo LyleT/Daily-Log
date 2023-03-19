@@ -25,3 +25,5 @@
 ## March 17 - Harvard CS50 course - lecture #0 - Scratch
 
 ## March 18 - Harvard CS50 course - lecture 01
+
+## March 19 - Binary Trees
