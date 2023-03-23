@@ -33,3 +33,5 @@
 ## March 21 - Mock-Up project of a commercial website
 
 ## March 22 - Mock-Up project of 'Tech Crunch' website
+
+## March 23 - Completed Tech Crunch Project - Interestingly today is 03-23-23
