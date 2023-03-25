@@ -37,3 +37,5 @@
 ## March 23 - Completed Tech Crunch Project - Interestingly today is 03-23-23
 
 ## March 24 - JS animation
+
+## March 25 - JS & CSS Clock project
