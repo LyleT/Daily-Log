@@ -47,3 +47,5 @@
 ## March 28 - Flex Panel Gallery Project
 
 ## March 29 - Type Ahead & Array Cardio #2 projects
+
+## March 30 - Fun with HTML5 Canvas Project
