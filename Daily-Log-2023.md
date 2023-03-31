@@ -49,3 +49,5 @@
 ## March 29 - Type Ahead & Array Cardio #2 projects
 
 ## March 30 - Fun with HTML5 Canvas Project
+
+## March 31 - CSS variables and JS Project (Dev Tools Domination)
