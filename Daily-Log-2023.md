@@ -51,3 +51,7 @@
 ## March 30 - Fun with HTML5 Canvas Project
 
 ## March 31 - CSS variables and JS Project (Dev Tools Domination)
+
+## **_ April _**
+
+## April 1 - Multi-checkbox selector
