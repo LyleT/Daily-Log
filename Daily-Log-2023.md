@@ -57,3 +57,5 @@
 ## April 1 - Multi-checkbox selector
 
 ## April 2 - Custom Video Player project
+
+## April 3 - Key Sequence Detection Project
