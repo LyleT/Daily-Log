@@ -59,3 +59,5 @@
 ## April 2 - Custom Video Player project
 
 ## April 3 - Key Sequence Detection Project
+
+## April 4 - Slide in on Scroll Project
