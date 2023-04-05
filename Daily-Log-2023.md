@@ -61,3 +61,5 @@
 ## April 3 - Key Sequence Detection Project
 
 ## April 4 - Slide in on Scroll Project
+
+## April 5 - References vs Copying Exercise
