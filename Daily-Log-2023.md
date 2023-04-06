@@ -63,3 +63,5 @@
 ## April 4 - Slide in on Scroll Project
 
 ## April 5 - References vs Copying Exercise
+
+## April 6 - Local Storage exercise
