@@ -65,3 +65,5 @@
 ## April 5 - References vs Copying Exercise
 
 ## April 6 - Local Storage exercise
+
+## April 7 - Mouse Move Shadow Project
