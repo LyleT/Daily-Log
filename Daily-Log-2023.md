@@ -67,3 +67,5 @@
 ## April 6 - Local Storage exercise
 
 ## April 7 - Mouse Move Shadow Project
+
+## April 8 - Sort without Articles exercise
