@@ -69,3 +69,5 @@
 ## April 7 - Mouse Move Shadow Project
 
 ## April 8 - Sort without Articles exercise
+
+## April 9 - Adding up Times w/ Reduce exercise
