@@ -73,3 +73,5 @@
 ## April 9 - Adding up Times w/ Reduce exercise
 
 ## April 10 - Webcam Fun project
+
+## April 11 - Speech Detection Project
