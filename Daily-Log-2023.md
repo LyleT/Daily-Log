@@ -77,3 +77,5 @@
 ## April 11 - Speech Detection Project
 
 ## April 12 - Geolocation Project
+
+## April 13 - Follow Along Highlighter
