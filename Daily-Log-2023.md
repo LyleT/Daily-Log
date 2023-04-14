@@ -79,3 +79,5 @@
 ## April 12 - Geolocation Project
 
 ## April 13 - Follow Along Highlighter
+
+## April 14 - Speech Synthesis
