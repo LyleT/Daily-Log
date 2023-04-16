@@ -83,3 +83,5 @@
 ## April 14 - Speech Synthesis
 
 ## April 15 - Sticky Nav Project
+
+## April 16 - Event capture, propagation, Bubbling and once exercise
