@@ -85,3 +85,5 @@
 ## April 15 - Sticky Nav Project
 
 ## April 16 - Event capture, propagation, Bubbling and once exercise
+
+## April 17 - Stripe Follow Along Nav project
