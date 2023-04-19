@@ -87,3 +87,5 @@
 ## April 16 - Event capture, propagation, Bubbling and once exercise
 
 ## April 17 - Stripe Follow Along Nav project
+
+## April 18 - Click and Drag Project
