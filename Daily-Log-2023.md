@@ -66,7 +66,7 @@
 
 ## April 6 - Local Storage exercise
 
-## April 7 - Mouse Move Shadow Project
+## April - 7 - Mouse Move Shadow Project
 
 ## April 8 - Sort without Articles exercise
 
@@ -89,3 +89,5 @@
 ## April 17 - Stripe Follow Along Nav project
 
 ## April 18 - Click and Drag Project
+
+## April 19 - Video Speed Controller Project
