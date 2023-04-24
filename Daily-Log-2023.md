@@ -99,3 +99,5 @@
 ## April 22 - CSS - more involved syntax
 
 ## April 23 - CSS, HTML, and Flexbox
+
+## April 24 - CSS & REACT courses
