@@ -101,3 +101,5 @@
 ## April 23 - CSS, HTML, and Flexbox
 
 ## April 24 - CSS & REACT courses
+
+## April 25 - CSS & REACT project (completed)
