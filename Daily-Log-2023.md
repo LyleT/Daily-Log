@@ -103,3 +103,5 @@
 ## April 24 - CSS & REACT courses
 
 ## April 25 - CSS & REACT project (completed)
+
+## April 26 - CSS positioning review
