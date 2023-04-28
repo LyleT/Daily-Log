@@ -105,3 +105,5 @@
 ## April 25 - CSS & REACT project (completed)
 
 ## April 26 - CSS positioning review
+
+## April 27 - CSS & HTML higher order review
