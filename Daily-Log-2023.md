@@ -113,3 +113,7 @@
 ## April 29 - CSS & HTML continuation review
 
 ## April 30 - CSS Complex Selectors
+
+## **_ May _**
+
+## May 1 - Complex Selectors continued
