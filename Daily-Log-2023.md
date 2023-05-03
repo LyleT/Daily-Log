@@ -119,3 +119,5 @@
 ## May 1 - Complex Selectors continued
 
 ## May 2 - REACT review documentation
+
+## May 3 - Guide to Flexbox
