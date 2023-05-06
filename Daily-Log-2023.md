@@ -125,3 +125,5 @@
 ## May 4 - May the 4th be with you!
 
 ## May 5 - Complex selectors continued
+
+## May 6 - Higher Order Function review
