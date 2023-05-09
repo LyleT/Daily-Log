@@ -129,3 +129,5 @@
 ## May 6 - Higher Order Function review
 
 ## May 7 - Flexbox Froggy
+
+## May 8 - Flexbox Froggy cont.
