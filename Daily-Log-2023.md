@@ -137,3 +137,5 @@
 ## MaY 10 - REACT - further review
 
 ## May 11 - Algorithms - HOF
+
+## May 12 - Algorithms cont.
