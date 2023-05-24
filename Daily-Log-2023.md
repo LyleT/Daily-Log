@@ -161,3 +161,5 @@
 ## May 22 - Victoria Day Holiday!!
 
 ## May 23 - Wordpress cont
+
+## May 24 - Wordpress cont
