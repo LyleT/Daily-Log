@@ -165,3 +165,5 @@
 ## May 24 - Wordpress cont
 
 ## May 25 - Review Algorithms
+
+## May 26 - Wordpress & Algorithms
