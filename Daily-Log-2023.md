@@ -169,3 +169,5 @@
 ## May 26 - Wordpress & Algorithms
 
 ## May 27 - Wordpress cont
+
+## May 28 - Wordpress cont
