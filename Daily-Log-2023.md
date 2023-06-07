@@ -191,3 +191,5 @@
 ## Jun 5 - Wordpress cont
 
 ## Jun 6 - Wordpress cont
+
+## Jun 7 - Wordpress cont
